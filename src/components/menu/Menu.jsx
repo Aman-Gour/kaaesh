@@ -104,7 +104,7 @@ export default function Menu() {
                 {/* <span class="btn drak btnresrv" >RESERVATION</span> */}
                 </ul>
                 
-                   <div> <a href="#" className="btn btnresrv">GET A RESERVATION Now</a></div>
+                   <div> <a href="/" className="btn btnresrv">GET A RESERVATION Now</a></div>
             </div>
             
         </nav>

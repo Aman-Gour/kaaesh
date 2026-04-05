@@ -13,8 +13,8 @@ export default function Navbar() {
             </div>
             <div className='nav_names_heading'>
             <a href="/">Home</a>
-              <a href="/menu">Menu</a>
-              <a href="/about-us">About us</a>
+              <a href="/">Menu</a>
+              <a href="/about">About us</a>
               <a href="/">Contact us</a></div>
 
             <div className="right-menu">

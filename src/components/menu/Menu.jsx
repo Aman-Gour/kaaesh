@@ -97,7 +97,7 @@ export default function Menu() {
                 <ul>
                     
                     <li class="active"><a href="/">Home</a></li>
-                    <li><a href="#about">About</a></li>
+                    <li><a href="/about">About</a></li>
                     <li><a href="#recipes">Recipes</a></li>
                     <li><a href="#menu">Menu</a></li>
                     <li><a href="#team">Team</a> </li>
